@@ -1,0 +1,15 @@
+.env
+db.sqlite3
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+staticfiles/
+models_store/
+.DS_Store
+.myvenv/
+venv/
+env/
+*.dll

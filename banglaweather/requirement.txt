@@ -1,0 +1,5 @@
+Django
+requests
+numpy
+python-dotenv
+scikit-learn
